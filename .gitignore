@@ -2,11 +2,12 @@
 tasks.csv
 
 # Compiled binaries
-taskly
+/taskly
 taskly.exe
 *.exe
 *.test
 *.out
+/dist/
 
 # Go build and tooling
 vendor/
